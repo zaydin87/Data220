@@ -1,4 +1,4 @@
-Country,Total_Cases,Total Deaths,Total Recovered,Active Cases,Total Cases/1 mil population,Deaths/1 mil population ,Total Tests,Tests/1 mil population,Population
+Country,TotalCases,Total Deaths,Total Recovered,Active Cases,Total Cases/1 mil population,Deaths/1 mil population ,Total Tests,Tests/1 mil population,Population
 Albania,177108,2807,167936,6365,61630,977,1253624,436233,2873750
 Andorra,15338,130,15139,69,198104,1679,193595,2500452,77424
 Austria,773540,11161,740910,21469,85262,1230,92324938,10176309,9072537
